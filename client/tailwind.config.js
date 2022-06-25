@@ -4,6 +4,7 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     fontFamily: {
+      anek: ["Anek Latin", "sans-serif"],
       display: ["Open Sans", "sans-serif"],
       body: ["Open Sans", "sans-serif"],
     },
